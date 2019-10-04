@@ -1,0 +1,9 @@
+module panda-dependency
+
+public class PandaDependency {
+
+    public static String getMessage() {
+        return 'Hello Panda'
+    }
+
+}
