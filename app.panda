@@ -1,8 +1,8 @@
 module panda-dependency
 
-public class PandaDependency {
+public type PandaDependency {
 
-    public static String getMessage() {
+    public static getMessage() -> String {
         return 'Hello Panda'
     }
 
