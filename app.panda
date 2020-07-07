@@ -1,8 +1,8 @@
 module panda-dependency
 
-public type PandaDependency {
+open type PandaDependency {
 
-    public static getMessage() -> String {
+    open static getMessage () -> String {
         return 'Hello Panda'
     }
 
