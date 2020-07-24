@@ -3,3 +3,4 @@ Example dependency used in multi-module [package manager test](https://github.co
 
 #### Submodules
 * [piotrpiatyszek/panda-dependency](https://github.com/piotrpiatyszek/panda-dependency)
+* [cyaffle/panda-dependency](https://github.com/cyaffle/panda-dependency)
