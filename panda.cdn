@@ -1,5 +1,5 @@
 name: panda-dependency
-version: 1.0.4
+version: 1.0.5
 owner: dzikoysk
 
 scripts: {
@@ -7,5 +7,5 @@ scripts: {
 }
 
 dependencies: [
-    github:piotrpiatyszek/panda-dependency@1.0.4
+    github:piotrpiatyszek/panda-dependency@1.0.5
 ]
