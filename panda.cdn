@@ -1,10 +1,7 @@
 name: panda-dependency
 version: 1.0.5
 owner: dzikoysk
-
-scripts: {
-    main: app.panda
-}
+sources: src
 
 dependencies: [
     github:piotrpiatyszek/panda-dependency@1.0.5
