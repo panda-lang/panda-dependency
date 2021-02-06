@@ -1,8 +1,8 @@
 name: panda-dependency
-version: 1.0.5
+version: 1.0.6
 owner: dzikoysk
 sources: src
 
 dependencies: [
-    github:piotrpiatyszek/panda-dependency@1.0.5
+    github:piotrpiatyszek/panda-dependency@master
 ]
