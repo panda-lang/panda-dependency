@@ -1,5 +1,3 @@
-module panda-dependency
-
 open type PandaDependency {
 
     open static getMessage () -> String {
