@@ -1,6 +1,6 @@
 name: panda-dependency
 version: 1.0.6
-author: dzikoysk
+author: panda-lang
 sources: src
 
 dependencies: [
